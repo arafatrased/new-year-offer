@@ -159,7 +159,6 @@ body{
     position: relative;
     width: 1320px;
     height: 986.07px;
-    border:2px solid red;
     margin: 0 auto;
     margin-top: 100px;
 }
@@ -217,4 +216,7 @@ body{
     bottom: 90px;
     left: 50px;
 
+}
+.footer{
+    background-color: aliceblue;
 }
